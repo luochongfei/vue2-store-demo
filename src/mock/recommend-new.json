@@ -1,0 +1,186 @@
+{
+    "status": 0,
+    "msg": "SUCCESS",
+    "data": [
+        {
+            "goodSn": "CHXLK60246500XROCV0",
+            "shopPrice": 199.99,
+            "marketPrice": 199.99,
+            "goodTitle": "Hitch Cargo Carrier, 60 x 24 x 6 in Folding Trailer Hitch Mounted Steel Cargo Basket, 500lb Luggage Carrier Rack with Waterproof Cargo Bag & Cargo Net, Fit 2\" Hitch Receiver for SUV Truck Pickup",
+            "salesStock": 1049,
+            "goodSpu": "03147",
+            "mainImage": "/goods_imgs/CHXLK60246500XROCV0.jpg"
+        },
+        {
+            "goodSn": "CDXLJJ2463645I36LV0",
+            "shopPrice": 123.99,
+            "marketPrice": 123.99,
+            "goodTitle": "Roof Rack Cargo Basket 200 LBS Capacity 46\"x36\"x4.5\" for SUV Truck Cars",
+            "salesStock": 415,
+            "goodSpu": "07618",
+            "mainImage": "/goods_imgs/CDXLJJ2463645I36LV0.jpg"
+        },
+        {
+            "goodSn": "PKHJHJGXLSB511V0SV0",
+            "shopPrice": 135.99,
+            "marketPrice": 135.99,
+            "goodTitle": "Truck Rack, 46-71inch Extendable Truck Ladder Rack, 800 lbs Capacity Steel Ladder Rack for Truck with Non-Drilling J-bolts, Heavy Duty Truck Bed Rack for Kayak, Surfboard, Lumber, Ladder",
+            "salesStock": 853,
+            "goodSpu": "04818",
+            "mainImage": "/goods_imgs/PKHJHJGXLSB511V0SV0.jpg"
+        },
+        {
+            "goodSn": "CDHGJTYKTYKCPRACFV0",
+            "shopPrice": 68.99,
+            "marketPrice": 53.99,
+            "goodTitle": "Universal Roof Rack Cross Bars, 54\" Aluminum Roof Rack Crossbars, Fit Existing Raised Side Rail with Gap, 200 lbs Load Capacity, Adjustable Crossbars with Locks, for SUVs, Sedans, and Vans",
+            "salesStock": 254,
+            "goodSpu": "10138",
+            "mainImage": "/goods_imgs/CDHGJTYKTYKCPRACFV0.jpg"
+        },
+        {
+            "goodSn": "PKHJLXJB71INCO9JWV0",
+            "shopPrice": 259.99,
+            "marketPrice": 259.99,
+            "goodTitle": "Truck Rack, 800 lbs Capacity, 19-34in Adjustable Height, Aluminum Ladder Rack for Truck with 8 Non-Drilling C-clamps, Heavy Duty Truck Bed Rack Two-Bar Set for Kayak, Surfboard, Lumber, Ladder",
+            "salesStock": 190,
+            "goodSpu": "04818",
+            "mainImage": "/goods_imgs/PKHJLXJB71INCO9JWV0.jpg"
+        },
+        {
+            "goodSn": "HCTJBSECOTRIC5QSZV0",
+            "shopPrice": 169.99,
+            "marketPrice": 169.99,
+            "goodTitle": "Van Ladder Roof Racks, 3 Bars, 661 LBS Capacity, Adjustable Matte Coating Van Rack with Ladder Stoppers, Compatible with Chevy Express Fullsize Van 1996-Up, White",
+            "salesStock": 137,
+            "goodSpu": "04326",
+            "mainImage": "/goods_imgs/HCTJBSECOTRIC5QSZV0.jpg"
+        },
+        {
+            "goodSn": "HCTJHSECOTRIC1S4TV0",
+            "shopPrice": 167.99,
+            "marketPrice": 167.99,
+            "goodTitle": "Van Ladder Roof Racks, 3 Bars, 661 LBS Capacity, Adjustable Matte Coating Van Rack with Ladder Stoppers, Compatible with Chevy Express Fullsize Van 1996-Up, Black",
+            "salesStock": 72,
+            "goodSpu": "04326",
+            "mainImage": "/goods_imgs/HCTJHSECOTRIC1S4TV0.jpg"
+        },
+        {
+            "goodSn": "CDHJDZKD4-8.5CG33V0",
+            "shopPrice": 124.99,
+            "marketPrice": 206.99,
+            "goodTitle": "Universal Roof Ladder Rack, Fit for 6.2'-8.3' Wide Vans, 2 Bars Adjustable Aluminum Trailer Ladder Rack with 330 LBS Capacity, for Cargo Vans Trucks or Pickups, Silver",
+            "salesStock": 13,
+            "goodSpu": "04326",
+            "mainImage": "/goods_imgs/CDHJDZKD4-8.5CG33V0.jpg"
+        },
+        {
+            "goodSn": "Q602024800D22LR7WV0",
+            "shopPrice": 53.99,
+            "marketPrice": 75.99,
+            "goodTitle": "Hitch Cargo Carrier Bag, Waterproof 840D PVC, 60\"x24\"x26\" (22 Cubic Feet), Heavy Duty Cargo Bag for Hitch Carrier with Reinforced Straps, Fits Car Truck SUV Vans Hitch Basket",
+            "salesStock": 228,
+            "goodSpu": "04424",
+            "mainImage": "/goods_imgs/Q602024800D22LR7WV0.jpg"
+        },
+        {
+            "goodSn": "TY1518CDJ23206370V0",
+            "shopPrice": 68.99,
+            "marketPrice": 90.99,
+            "goodTitle": "For 2015-20 GMC Yukon XL Chevy Tahoe Suburban Roof Rack Cross Bars Cargo Carrier",
+            "salesStock": 113,
+            "goodSpu": "00185",
+            "mainImage": "/goods_imgs/TY1518CDJ23206370V0.jpg"
+        },
+        {
+            "goodSn": "KCPVC6X1418OZJELJV0",
+            "shopPrice": 47.99,
+            "marketPrice": 50.99,
+            "goodTitle": "Dump Truck Mesh Tarp, 6 x 14 ft, PVC Coated Black Heavy Duty Cover with 5.5\" 18oz Double Pocket, Brass Grommets, Reinforced Double Needle Stitch Webbing Fits Manual or Electric Dump Truck System",
+            "salesStock": 68,
+            "goodSpu": "08185",
+            "mainImage": "/goods_imgs/KCPVC6X1418OZJELJV0.jpg"
+        },
+        {
+            "goodSn": "DFBLJGM301U-90001V0",
+            "shopPrice": 116.99,
+            "marketPrice": 149.99,
+            "goodTitle": "Windshield Rack 9-Lite, Windshield Truck Rack Steel, Windshield Glass Rack 24-Inch Height, Windshield Rack for Truck w/PVC Pad & Foam Padding, Glass Rack for Truck, for Glass Transportation",
+            "salesStock": 185,
+            "goodSpu": "00657",
+            "mainImage": "/goods_imgs/DFBLJGM301U-90001V0.jpg"
+        },
+        {
+            "goodSn": "CHXL60241440019GAV0",
+            "shopPrice": 197.99,
+            "marketPrice": 197.99,
+            "goodTitle": "Hitch Cargo Carrier, 60 x 24 x 14 in Folding Trailer Hitch Mounted Steel Cargo Basket, 400lbs Loading Capacity Luggage Carrier Rack with Stabilizer, Fits 2\" Hitch Receiver for SUV Truck Pickup",
+            "salesStock": 593,
+            "goodSpu": "03147",
+            "mainImage": "/goods_imgs/CHXL60241440019GAV0.jpg"
+        },
+        {
+            "goodSn": "CDXLJJY251365ROA4V0",
+            "shopPrice": 189.99,
+            "marketPrice": 189.99,
+            "goodTitle": "Roof Rack Cargo Basket 200 LBS 51\"x36\"x5\" for SUV Truck with Luggage Bag",
+            "salesStock": 99,
+            "goodSpu": "07618",
+            "mainImage": "/goods_imgs/CDXLJJY251365ROA4V0.jpg"
+        },
+        {
+            "goodSn": "CDHGJZSKSBLSAID10V0",
+            "shopPrice": 59.99,
+            "marketPrice": 59.99,
+            "goodTitle": "Roof Rack Cross Bars, Fit for 2014-2022 Subaru Forester with Raised Side Rails, 200 lbs Load Capacity, Aluminum Crossbars with Locks, for Rooftop Cargo Carrier Bag Luggage Kayak Bike",
+            "salesStock": 164,
+            "goodSpu": "10139",
+            "mainImage": "/goods_imgs/CDHGJZSKSBLSAID10V0.jpg"
+        },
+        {
+            "goodSn": "PKHJLXJB71INCA3EAV0",
+            "shopPrice": 229.99,
+            "marketPrice": 229.99,
+            "goodTitle": "Truck Rack, 800 lbs Capacity, 71\"x31\" Aluminum Ladder Rack for Truck with 8 Non-Drilling C-clamps, Heavy Duty Truck Bed Rack Two-Bar Set for Kayak, Surfboard, Lumber, Ladder",
+            "salesStock": 338,
+            "goodSpu": "04818",
+            "mainImage": "/goods_imgs/PKHJLXJB71INCA3EAV0.jpg"
+        },
+        {
+            "goodSn": "Q472020500D11KXPPV0",
+            "shopPrice": 48.99,
+            "marketPrice": 62.99,
+            "goodTitle": "Hitch Cargo Carrier Bag, Waterproof 840D PVC, 47\"x20\"x20\" (11 Cubic Feet), Heavy Duty Cargo Bag for Hitch Carrier with Reinforced Straps, Fits Car Truck SUV Vans Hitch Basket , Black",
+            "salesStock": 9,
+            "goodSpu": "04424",
+            "mainImage": "/goods_imgs/Q472020500D11KXPPV0.jpg"
+        },
+        {
+            "goodSn": "KCPVC7X1818OZ1295V0",
+            "shopPrice": 58.99,
+            "marketPrice": 62.99,
+            "goodTitle": "Dump Truck Mesh Tarp, 7 x 18 ft, PVC Coated Black Heavy Duty Cover with 5.5\" 18oz Double Pocket, Brass Grommets, Reinforced Double Needle Stitch Webbing Fits Manual or Electric Dump Truck System",
+            "salesStock": 96,
+            "goodSpu": "08185",
+            "mainImage": "/goods_imgs/KCPVC7X1818OZ1295V0.jpg"
+        },
+        {
+            "goodSn": "DFBLJGM302-5LI001V0",
+            "shopPrice": 85.99,
+            "marketPrice": 127.99,
+            "goodTitle": "Windshield Rack 5-Lite, Windshield Truck Rack Steel, Windshield Glass Rack 24-Inch Height, Windshield Rack for Truck w/PVC Pad & Foam Padding, Glass Rack for Truck, for Glass Transportation",
+            "salesStock": 121,
+            "goodSpu": "00657",
+            "mainImage": "/goods_imgs/DFBLJGM302-5LI001V0.jpg"
+        },
+        {
+            "goodSn": "CHXLK47286500HPGUV0",
+            "shopPrice": 239.99,
+            "marketPrice": 239.99,
+            "goodTitle": "50 x 29.5 x 8.7 inch Hitch Cargo Carrier, 500lbs Capacity Trailer Hitch Mounted Cargo Basket, Aluminum Luggage Carrier Rack with Folding Ramp, Fits 2\" Hitch Receiver for SUV Truck Pickup Camping",
+            "salesStock": 106,
+            "goodSpu": "03147",
+            "mainImage": "/goods_imgs/CHXLK47286500HPGUV0.jpg"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+@import "./base.css";
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
+
+body {
+    background-color: #e4e4e4;
+}
+
+.safe-mid {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1240px;
+}
